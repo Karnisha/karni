@@ -1,0 +1,15 @@
+D:\GIT\Assignment\Bank\bin\Debug\net7.0\Bank.exe
+D:\GIT\Assignment\Bank\bin\Debug\net7.0\Bank.deps.json
+D:\GIT\Assignment\Bank\bin\Debug\net7.0\Bank.runtimeconfig.json
+D:\GIT\Assignment\Bank\bin\Debug\net7.0\Bank.dll
+D:\GIT\Assignment\Bank\bin\Debug\net7.0\Bank.pdb
+D:\GIT\Assignment\Bank\obj\Debug\net7.0\Bank.csproj.AssemblyReference.cache
+D:\GIT\Assignment\Bank\obj\Debug\net7.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Assignment\Bank\obj\Debug\net7.0\Bank.AssemblyInfoInputs.cache
+D:\GIT\Assignment\Bank\obj\Debug\net7.0\Bank.AssemblyInfo.cs
+D:\GIT\Assignment\Bank\obj\Debug\net7.0\Bank.csproj.CoreCompileInputs.cache
+D:\GIT\Assignment\Bank\obj\Debug\net7.0\Bank.dll
+D:\GIT\Assignment\Bank\obj\Debug\net7.0\refint\Bank.dll
+D:\GIT\Assignment\Bank\obj\Debug\net7.0\Bank.pdb
+D:\GIT\Assignment\Bank\obj\Debug\net7.0\Bank.genruntimeconfig.cache
+D:\GIT\Assignment\Bank\obj\Debug\net7.0\ref\Bank.dll
